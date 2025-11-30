@@ -65,4 +65,6 @@ Adam</a></h1>
   <a href="https://" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+
+	<br><br>
 Últmia actualización: 30/11/2025
