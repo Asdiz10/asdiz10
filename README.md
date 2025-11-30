@@ -10,7 +10,7 @@ Adam</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Estudio en un <a href="https://phoenix.tech/griffyn/" target="blank">Grado de Medio de Sistemas Microinformáticos </a>
+- 🔭 Estudio un FP de sistemas microinformáticos <a href="https://www.fpllefia.com" target="blank">FpLlefia</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
